@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">דוגמת תפריט</string>
+    <string name="counter">המונה: %1$d</string>
+    <string name="instructions">לחצו על + להגדלת המונה.
+איפוס מופיע בסרגל אם יש מקום.
+אודות נמצא בתפריט שלוש הנקודות.</string>
+    <string name="add">הוספה</string>
+    <string name="reset">איפוס</string>
+    <string name="about">אודות</string>
+    <string name="reset_message">המונה אופס</string>
+    <string name="about_message">דוגמה עובדת לתפריט Android: always, ifRoom, never</string>
+</resources>

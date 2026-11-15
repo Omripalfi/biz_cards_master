@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6157881239",
+    "project_id": "bizcard-c855d",
+    "storage_bucket": "bizcard-c855d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6157881239:android:87937849cbed1d345bbed2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-ZR5UnvWxA06lq8Q4jbWg4KQU7PVA0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
